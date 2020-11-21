@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://marcelmue.github.io/about/</loc>
-    <lastmod>2020-08-16T00:00:00+00:00</lastmod>
+    <loc>https://marcelmue.github.io/art/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://marcelmue.github.io/talks/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelmue.github.io/about/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
   </url>
   
