@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marcel</title>
-    <link>https://marcelmue.github.io/</link>
-    <description>Recent content on Marcel</description>
+    <title>Abstracts on Marcel</title>
+    <link>https://marcelmue.github.io/abstracts/</link>
+    <description>Recent content in Abstracts on Marcel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© MarcelMue</copyright>
     <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://marcelmue.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://marcelmue.github.io/abstracts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Art</title>
-      <link>https://marcelmue.github.io/art/</link>
-      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcelmue.github.io/art/</guid>
-      <description>I enjoy creating and viewing patterns which roughly fit into the term Concrete Art.
-A project I have created for this purpose is konstrukt. I use it to implement different patterns as SVGs which makes them scaleable and easy to recoulor for me.</description>
-    </item>
     
     <item>
       <title>How Security Evolves with your Kubernetes Footprint</title>
@@ -72,41 +62,12 @@ There is a catch though: by building our own operators, we have introduced our o
     </item>
     
     <item>
-      <title>Talks</title>
-      <link>https://marcelmue.github.io/talks/</link>
-      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcelmue.github.io/talks/</guid>
-      <description>This is a list of talks I have given at various (online) conferences &amp;amp; webinars.
-How we clean up our murders - postmortems Conference: Software Circus
-Abstract: Backup
-Recording: Youtube
-How Security Evolves with your Kubernetes Footprint Conference: Giant Swarm Webinar
-Abstract: Backup
-Recording: Youtube
-How Security Evolves with your Kubernetes Footprint Conference: KubeSec Online
-Abstract: Backup
-Recording: Behind signup wall
-Kubernetes-Operator: Was ist das und wozu sind sie gut? Conference: ContainerConf Online</description>
-    </item>
-    
-    <item>
       <title>Testable Kubernetes Operators</title>
       <link>https://marcelmue.github.io/abstracts/devops-gathering-operators-2020/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://marcelmue.github.io/abstracts/devops-gathering-operators-2020/</guid>
       <description>Kubernetes operators have been used more commonly throughout the Kubernetes community to automate workflows, manage applications and infrastructure. These usecases have produced complex operators which need to be tested properly to ensure that they are working as intended. Testing operators in practice has been a difficult task - unit tests can only cover a limited scope of logic (even with mocks like k8sfakeclient) and e2e tests (while offering a wider scope) are plagued by a common issue: flapping.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://marcelmue.github.io/about/</link>
-      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcelmue.github.io/about/</guid>
-      <description>Currently a Platform Engineer at Giant Swarm - passionate about Kubernetes operators and release engineering.
-I try to share experiences through talks at different conferences.</description>
     </item>
     
   </channel>

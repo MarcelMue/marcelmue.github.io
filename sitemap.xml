@@ -3,12 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://marcelmue.github.io/abstracts/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://marcelmue.github.io/art/</loc>
     <lastmod>2020-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://marcelmue.github.io/abstracts/giantswarm-webinar-2020/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelmue.github.io/abstracts/kubesec-2020/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelmue.github.io/abstracts/software-circus-2020/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelmue.github.io/abstracts/containerconf-online-2020/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelmue.github.io/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelmue.github.io/abstracts/destination-decentralization-2020/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://marcelmue.github.io/talks/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelmue.github.io/abstracts/devops-gathering-operators-2020/</loc>
     <lastmod>2020-11-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,10 +59,6 @@
   
   <url>
     <loc>https://marcelmue.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://marcelmue.github.io/</loc>
   </url>
   
   <url>
