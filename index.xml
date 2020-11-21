@@ -28,7 +28,14 @@ A project I have created for this purpose is konstrukt. I use it to implement di
       
       <guid>https://marcelmue.github.io/talks/</guid>
       <description>This is a list of talks I have given at various (online) conferences &amp;amp; webinars.
- How we clean up our murders - postmortems | Software Circus | Youtube How Security Evolves with your Kubernetes Footprint | Giant Swarm Webinar | Youtube How Security Evolves with your Kubernetes Footprint | KubeSec Online | Behind signup wall Kubernetes-Operator: Was ist das und wozu sind sie gut? | ContainerConf Online | No public video Our Road to Cluster API Adoption | Destination Decentralization | KongHQ How Postmortems help hardening our k8s clusters | DevOps Gathering 2020 | Youtube Testable Kubernetes Operators | DevOps Gathering 2020 | Youtube  </description>
+How we clean up our murders - postmortems Conference: Software Circus
+Recording: Youtube
+How Security Evolves with your Kubernetes Footprint Conference: Giant Swarm Webinar
+Recording: Youtube
+How Security Evolves with your Kubernetes Footprint Conference: KubeSec Online
+Recording: Behind signup wall
+Kubernetes-Operator: Was ist das und wozu sind sie gut? Conference: ContainerConf Online
+Recording: No public video :(</description>
     </item>
     
     <item>
