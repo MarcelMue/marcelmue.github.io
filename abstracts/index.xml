@@ -70,5 +70,15 @@ There is a catch though: by building our own operators, we have introduced our o
       <description>Kubernetes operators have been used more commonly throughout the Kubernetes community to automate workflows, manage applications and infrastructure. These usecases have produced complex operators which need to be tested properly to ensure that they are working as intended. Testing operators in practice has been a difficult task - unit tests can only cover a limited scope of logic (even with mocks like k8sfakeclient) and e2e tests (while offering a wider scope) are plagued by a common issue: flapping.</description>
     </item>
     
+    <item>
+      <title>Unser Weg zur Cluster-API</title>
+      <link>https://marcelmue.github.io/abstracts/kubernetes-experts-day-2021/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcelmue.github.io/abstracts/kubernetes-experts-day-2021/</guid>
+      <description>Das Cluster-API-Projekt verfolgt einen Community-getriebenen Ansatz, der eine deklarative API im Stil von Kubernetes umsetzen soll. Die Cluster-API soll es ermöglichen, den Lebenszyklus eines Kubernetes-Clusters innerhalb der Container-Orchestrierung zu managen. Dafür wird eine von Cloud-Providern unabhängige Cluster-Definition eingeführt, die universell nutzbare Operationen und Default-Implementationen bereitstellt.
+Das Ziel dieses Talks ist es, die Struktur der Cluster-API vorzustellen und zu erläutern. Dabei greift Marcel auf eigene Erfahrungen zurück, die er bei der Transformation der Giant-Swarm-Architektur hin zu einer Cluster-API-Implementierung sammeln konnte.</description>
+    </item>
+    
   </channel>
 </rss>
